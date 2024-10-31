@@ -1,0 +1,1512 @@
+# Copyright (C) 2021 alloykenya
+# This file is distributed under the same license as the PesaPress package.
+msgid ""
+msgstr ""
+"Project-Id-Version: PesaPress 2.2.9\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/pesapress\n"
+"POT-Creation-Date: 2021-01-19 09:15:42+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2021-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: app/controller/admin/class-pp-controller-admin-dashboard.php:40
+#: app/controller/admin/class-pp-controller-admin-dashboard.php:41
+msgid "DashBoard"
+msgstr ""
+
+#: app/controller/admin/class-pp-controller-admin-gateways.php:48
+#: app/controller/admin/class-pp-controller-admin-gateways.php:49
+#: app/views/admin/class-pp-views-admin-gateways.php:13
+msgid "Gateways"
+msgstr ""
+
+#: app/controller/admin/class-pp-controller-admin-gateways.php:84
+msgid "New Gateway"
+msgstr ""
+
+#: app/controller/admin/class-pp-controller-admin-gateways.php:102
+#: app/controller/admin/class-pp-controller-admin-gateways.php:229
+#: app/controller/admin/class-pp-controller-admin-gateways.php:283
+msgid "Gateway not fully integrated"
+msgstr ""
+
+#: app/controller/admin/class-pp-controller-admin-gateways.php:136
+#: app/controller/admin/class-pp-controller-admin-gateways.php:262
+msgid "Phone"
+msgstr ""
+
+#: app/controller/admin/class-pp-controller-admin-gateways.php:150
+msgid "Gateway setting saved"
+msgstr ""
+
+#: app/controller/admin/class-pp-controller-admin-gateways.php:155
+msgid "Error saving gateway"
+msgstr ""
+
+#: app/controller/admin/class-pp-controller-admin-gateways.php:173
+msgid "Gateway cloned"
+msgstr ""
+
+#: app/controller/admin/class-pp-controller-admin-gateways.php:178
+msgid "Error cloning gateway"
+msgstr ""
+
+#: app/controller/admin/class-pp-controller-admin-gateways.php:195
+#: app/controller/admin/class-pp-controller-admin-logs.php:119
+msgid "Gateway deleted"
+msgstr ""
+
+#: app/controller/admin/class-pp-controller-admin-gateways.php:223
+msgid "Edit Gateway"
+msgstr ""
+
+#: app/controller/admin/class-pp-controller-admin-gateways.php:276
+msgid "Gateway setting updated"
+msgstr ""
+
+#: app/controller/admin/class-pp-controller-admin-gateways.php:281
+msgid "Error updating gateway"
+msgstr ""
+
+#: app/controller/admin/class-pp-controller-admin-gateways.php:312
+#: app/controller/admin/class-pp-controller-admin-logs.php:143
+msgid "Bulk action implemented"
+msgstr ""
+
+#: app/controller/admin/class-pp-controller-admin-gateways.php:317
+#: app/controller/admin/class-pp-controller-admin-logs.php:148
+msgid "No action select"
+msgstr ""
+
+#: app/controller/admin/class-pp-controller-admin-gateways.php:320
+#: app/controller/admin/class-pp-controller-admin-logs.php:151
+msgid "No id selected"
+msgstr ""
+
+#: app/controller/admin/class-pp-controller-admin-logs.php:47
+#: app/controller/admin/class-pp-controller-admin-logs.php:48
+msgid "Transactions"
+msgstr ""
+
+#: app/controller/admin/class-pp-controller-admin-logs.php:84
+msgid "View Log"
+msgstr ""
+
+#: app/controller/admin/class-pp-controller-admin-logs.php:104
+msgid "Invalid log"
+msgstr ""
+
+#: app/controller/admin/class-pp-controller-admin-logs.php:163
+msgid "Loading Gateway Logs"
+msgstr ""
+
+#: app/controller/admin/class-pp-controller-admin-logs.php:170
+msgid "Loading all logs"
+msgstr ""
+
+#: app/controller/admin/class-pp-controller-admin-settings.php:42
+#: app/controller/admin/class-pp-controller-admin-settings.php:43
+#: app/core/class-pp-core-init.php:95
+#: app/views/admin/class-pp-views-admin-settings.php:21
+msgid "Settings"
+msgstr ""
+
+#: app/controller/admin/class-pp-controller-admin-settings.php:91
+msgid "Settings updated"
+msgstr ""
+
+#: app/controller/admin/class-pp-controller-admin-settings.php:110
+msgid "Form Fields updated"
+msgstr ""
+
+#: app/controller/class-pp-controller-admin.php:71
+#: app/controller/class-pp-controller-front.php:75
+msgid "An error occured"
+msgstr ""
+
+#: app/controller/class-pp-controller-admin.php:76
+msgid "Loading content"
+msgstr ""
+
+#: app/controller/class-pp-controller-admin.php:77
+#: app/views/admin/class-pp-views-admin-gateways.php:99
+#: app/views/admin/class-pp-views-admin-logs.php:130
+msgid "Loading content %s"
+msgstr ""
+
+#: app/controller/class-pp-controller-admin.php:78
+msgid "Error loading content"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "PesaPress"
+msgstr ""
+
+#: app/controller/class-pp-controller-front.php:76
+msgid "Processing, please wait..."
+msgstr ""
+
+#: app/controller/class-pp-controller-front.php:168
+msgid "Complete Payment"
+msgstr ""
+
+#: app/controller/class-pp-controller-front.php:169
+msgid "Total"
+msgstr ""
+
+#: app/controller/class-pp-controller-front.php:226
+msgid "Form not set up correctly"
+msgstr ""
+
+#: app/controller/class-pp-controller-front.php:276
+msgid "Invalid action"
+msgstr ""
+
+#: app/controller/class-pp-controller-resource.php:53
+msgid "Display a custom HTML table with all users"
+msgstr ""
+
+#: app/controller/class-pp-controller-resource.php:55
+#: app/views/front/forms/class-pp-views-front-forms-input.php:51
+msgid "Total Amount"
+msgstr ""
+
+#: app/controller/class-pp-controller-resource.php:56
+msgid "Gateway ID"
+msgstr ""
+
+#: app/core/class-pp-core-helper.php:118
+msgid "Invalid request, you are not allowed to make this request"
+msgstr ""
+
+#: app/core/class-pp-core-init.php:128
+msgid "%s Settings"
+msgstr ""
+
+#: app/external/woo/class-pp-external-woo-filters.php:126
+#: app/external/woo/class-pp-external-woo-gateway.php:148
+#: app/external/woo/class-pp-external-woo-gateway.php:193
+msgid "Payment accepted, awaiting confirmation. Status : %s"
+msgstr ""
+
+#: app/external/woo/class-pp-external-woo-gateway.php:21
+msgid "Enable PesaPress payment gateways"
+msgstr ""
+
+#: app/external/woo/class-pp-external-woo-gateway.php:62
+msgid "Enable/Disable"
+msgstr ""
+
+#: app/external/woo/class-pp-external-woo-gateway.php:64
+msgid "Enable PesaPress"
+msgstr ""
+
+#: app/external/woo/class-pp-external-woo-gateway.php:68
+msgid "Title"
+msgstr ""
+
+#: app/external/woo/class-pp-external-woo-gateway.php:70
+msgid "This controls the title which the user sees during checkout."
+msgstr ""
+
+#: app/external/woo/class-pp-external-woo-gateway.php:71
+msgid "PesaPress Payment"
+msgstr ""
+
+#: app/external/woo/class-pp-external-woo-gateway.php:74
+msgid "Description"
+msgstr ""
+
+#: app/external/woo/class-pp-external-woo-gateway.php:76
+msgid "This is the description which the user sees during checkout."
+msgstr ""
+
+#: app/external/woo/class-pp-external-woo-gateway.php:77
+msgid "Payment via PesaPress."
+msgstr ""
+
+#: app/external/woo/class-pp-external-woo-gateway.php:80
+msgid "PesaPress Gateway Setting"
+msgstr ""
+
+#: app/external/woo/class-pp-external-woo-gateway.php:82
+#: app/external/wptravel/class-pp-external-wptravel-filters.php:64
+msgid "Select PesaPress Gateway"
+msgstr ""
+
+#: app/external/woo/class-pp-external-woo-gateway.php:83
+msgid "The PesaPress gateway to use"
+msgstr ""
+
+#: app/external/woo/class-pp-external-woo-gateway.php:88
+msgid "Debug Log"
+msgstr ""
+
+#: app/external/woo/class-pp-external-woo-gateway.php:90
+msgid "Enable logging"
+msgstr ""
+
+#: app/external/woo/class-pp-external-woo-gateway.php:92
+msgid ""
+"Log PesaPress events, such as IPN requests, inside "
+"<code>woocommerce/logs/pesapress-%s.txt</code>"
+msgstr ""
+
+#: app/external/wptravel/class-pp-external-wptravel-filters.php:52
+#: app/views/admin/class-pp-views-admin-gateways.php:56
+msgid "Enable"
+msgstr ""
+
+#: app/external/wptravel/class-pp-external-wptravel-filters.php:60
+msgid "Check to enable PesaPress"
+msgstr ""
+
+#: app/external/wptravel/class-pp-external-wptravel-filters.php:68
+msgid "Select"
+msgstr ""
+
+#: app/external/wptravel/class-pp-external-wptravel-filters.php:79
+msgid "Check to enable PesaPal gateway"
+msgstr ""
+
+#: app/integration/class-pp-integration-mpesa.php:104
+msgid "%1$sTransaction already in process%2$s"
+msgstr ""
+
+#: app/integration/class-pp-integration-mpesa.php:137
+msgid "Sending a lipa na mpesa request"
+msgstr ""
+
+#: app/integration/class-pp-integration-mpesa.php:156
+msgid "%1$sTransaction in process. Check your phone to enter M-PESA pin%2$s"
+msgstr ""
+
+#: app/integration/class-pp-integration-mpesa.php:158
+msgid "Unable to send payment request. Please refresh the page to try again"
+msgstr ""
+
+#: app/integration/class-pp-integration-mpesa.php:161
+msgid ""
+"%1$sUnable to send payment request. Please check your settings%2$s. Error "
+"%3$s"
+msgstr ""
+
+#: app/integration/class-pp-integration-mpesa.php:164
+#: app/integration/class-pp-integration-mpesa.php:167
+msgid "%1$sUnable to send payment request. Please check your settings%2$s"
+msgstr ""
+
+#: app/integration/class-pp-integration-mpesa.php:218
+msgid "Payment request was cancelled"
+msgstr ""
+
+#: app/integration/class-pp-integration-mpesa.php:223
+msgid ""
+"A similar transaction is in progress, please wait as we process the "
+"transaction"
+msgstr ""
+
+#: app/integration/class-pp-integration-mpesa.php:228
+msgid "Wrong M-PESA pin entered, please click on pay and enter pin again"
+msgstr ""
+
+#: app/integration/class-pp-integration-mpesa.php:233
+msgid "The balance is insufficient for the transaction"
+msgstr ""
+
+#: app/integration/class-pp-integration-mpesa.php:238
+msgid "Error encountered during payment processing"
+msgstr ""
+
+#: app/integration/class-pp-integration-pesapal.php:152
+msgid "Browser unable to load iFrame"
+msgstr ""
+
+#: app/lib/currencies.php:9
+msgid "AUD - Australian Dollar"
+msgstr ""
+
+#: app/lib/currencies.php:10
+msgid "BRL - Brazilian Real"
+msgstr ""
+
+#: app/lib/currencies.php:11
+msgid "CAD - Canadian Dollar"
+msgstr ""
+
+#: app/lib/currencies.php:12 app/lib/currencies.php:66
+msgid "CHF - Swiss Franc"
+msgstr ""
+
+#: app/lib/currencies.php:13
+msgid "CZK - Czech Koruna"
+msgstr ""
+
+#: app/lib/currencies.php:14 app/lib/currencies.php:74
+msgid "DKK - Danish Krone"
+msgstr ""
+
+#: app/lib/currencies.php:15 app/lib/currencies.php:80
+msgid "EUR - Euro"
+msgstr ""
+
+#: app/lib/currencies.php:16
+msgid "GBP - Pound Sterling"
+msgstr ""
+
+#: app/lib/currencies.php:17
+msgid "ILS - Israeli Shekel"
+msgstr ""
+
+#: app/lib/currencies.php:18 app/lib/currencies.php:97
+msgid "INR - Indian Rupee*"
+msgstr ""
+
+#: app/lib/currencies.php:19 app/lib/currencies.php:90
+msgid "HKD - Hong Kong Dollar"
+msgstr ""
+
+#: app/lib/currencies.php:20 app/lib/currencies.php:94
+msgid "HUF - Hungarian Forint"
+msgstr ""
+
+#: app/lib/currencies.php:21 app/lib/currencies.php:100
+msgid "JPY - Japanese Yen"
+msgstr ""
+
+#: app/lib/currencies.php:22
+msgid "MYR - Malaysian Ringgits"
+msgstr ""
+
+#: app/lib/currencies.php:23
+msgid "MXN - Mexican Peso"
+msgstr ""
+
+#: app/lib/currencies.php:24 app/lib/currencies.php:131
+msgid "NOK - Norwegian Krone"
+msgstr ""
+
+#: app/lib/currencies.php:25 app/lib/currencies.php:133
+msgid "NZD - New Zealand Dollar"
+msgstr ""
+
+#: app/lib/currencies.php:26
+msgid "PHP - Philippine Pesos"
+msgstr ""
+
+#: app/lib/currencies.php:27
+msgid "PLN - Polish Zloty"
+msgstr ""
+
+#: app/lib/currencies.php:28
+msgid "RUB - Russian Rubles"
+msgstr ""
+
+#: app/lib/currencies.php:29 app/lib/currencies.php:149
+msgid "SEK - Swedish Krona"
+msgstr ""
+
+#: app/lib/currencies.php:30 app/lib/currencies.php:150
+msgid "SGD - Singapore Dollar"
+msgstr ""
+
+#: app/lib/currencies.php:31
+msgid "TWD - Taiwan New Dollars"
+msgstr ""
+
+#: app/lib/currencies.php:32 app/lib/currencies.php:158
+msgid "THB - Thai Baht"
+msgstr ""
+
+#: app/lib/currencies.php:33
+msgid "TRY - Turkish lira"
+msgstr ""
+
+#: app/lib/currencies.php:34
+msgid "USD - U.S. Dollar"
+msgstr ""
+
+#: app/lib/currencies.php:42
+msgid "AED - United Arab Emirates Dirham"
+msgstr ""
+
+#: app/lib/currencies.php:43
+msgid "AFN - Afghan Afghani*"
+msgstr ""
+
+#: app/lib/currencies.php:44
+msgid "ALL - Albanian Lek"
+msgstr ""
+
+#: app/lib/currencies.php:45
+msgid "AMD - Armenian Dram"
+msgstr ""
+
+#: app/lib/currencies.php:46
+msgid "ANG - Netherlands Antillean Gulden"
+msgstr ""
+
+#: app/lib/currencies.php:47
+msgid "AOA - Angolan Kwanza*"
+msgstr ""
+
+#: app/lib/currencies.php:48
+msgid "ARS - Argentine Peso*"
+msgstr ""
+
+#: app/lib/currencies.php:49
+msgid "AUD - Australian Dollar*"
+msgstr ""
+
+#: app/lib/currencies.php:50
+msgid "AWG - Aruban Florin"
+msgstr ""
+
+#: app/lib/currencies.php:51
+msgid "AZN - Azerbaijani Manat"
+msgstr ""
+
+#: app/lib/currencies.php:52
+msgid "BAM - Bosnia & Herzegovina Convertible Mark"
+msgstr ""
+
+#: app/lib/currencies.php:53
+msgid "BBD - Barbadian Dollar"
+msgstr ""
+
+#: app/lib/currencies.php:54
+msgid "BDT - Bangladeshi Taka"
+msgstr ""
+
+#: app/lib/currencies.php:55
+msgid "BGN - Bulgarian Lev"
+msgstr ""
+
+#: app/lib/currencies.php:56
+msgid "BIF - Burundian Franc"
+msgstr ""
+
+#: app/lib/currencies.php:57
+msgid "BMD - Bermudian Dollar"
+msgstr ""
+
+#: app/lib/currencies.php:58
+msgid "BND - Brunei Dollar"
+msgstr ""
+
+#: app/lib/currencies.php:59
+msgid "BOB - Bolivian Boliviano*"
+msgstr ""
+
+#: app/lib/currencies.php:60
+msgid "BRL - Brazilian Real*"
+msgstr ""
+
+#: app/lib/currencies.php:61
+msgid "BSD - Bahamian Dollar"
+msgstr ""
+
+#: app/lib/currencies.php:62
+msgid "BWP - Botswana Pula"
+msgstr ""
+
+#: app/lib/currencies.php:63
+msgid "BZD - Belize Dollar"
+msgstr ""
+
+#: app/lib/currencies.php:64
+msgid "CAD - Canadian Dollar*"
+msgstr ""
+
+#: app/lib/currencies.php:65
+msgid "CDF - Congolese Franc"
+msgstr ""
+
+#: app/lib/currencies.php:67
+msgid "CLP - Chilean Peso*"
+msgstr ""
+
+#: app/lib/currencies.php:68
+msgid "CNY - Chinese Renminbi Yuan"
+msgstr ""
+
+#: app/lib/currencies.php:69
+msgid "COP - Colombian Peso*"
+msgstr ""
+
+#: app/lib/currencies.php:70
+msgid "CRC - Costa Rican Colón*"
+msgstr ""
+
+#: app/lib/currencies.php:71
+msgid "CVE - Cape Verdean Escudo*"
+msgstr ""
+
+#: app/lib/currencies.php:72
+msgid "CZK - Czech Koruna*"
+msgstr ""
+
+#: app/lib/currencies.php:73
+msgid "DJF - Djiboutian Franc*"
+msgstr ""
+
+#: app/lib/currencies.php:75
+msgid "DOP - Dominican Peso"
+msgstr ""
+
+#: app/lib/currencies.php:76
+msgid "DZD - Algerian Dinar"
+msgstr ""
+
+#: app/lib/currencies.php:77
+msgid "EEK - Estonian Kroon*"
+msgstr ""
+
+#: app/lib/currencies.php:78
+msgid "EGP - Egyptian Pound"
+msgstr ""
+
+#: app/lib/currencies.php:79
+msgid "ETB - Ethiopian Birr"
+msgstr ""
+
+#: app/lib/currencies.php:81
+msgid "FJD - Fijian Dollar"
+msgstr ""
+
+#: app/lib/currencies.php:82
+msgid "FKP - Falkland Islands Pound*"
+msgstr ""
+
+#: app/lib/currencies.php:83
+msgid "GBP - British Pound"
+msgstr ""
+
+#: app/lib/currencies.php:84
+msgid "GEL - Georgian Lari"
+msgstr ""
+
+#: app/lib/currencies.php:85
+msgid "GIP - Gibraltar Pound"
+msgstr ""
+
+#: app/lib/currencies.php:86
+msgid "GMD - Gambian Dalasi"
+msgstr ""
+
+#: app/lib/currencies.php:87
+msgid "GNF - Guinean Franc*"
+msgstr ""
+
+#: app/lib/currencies.php:88
+msgid "GTQ - Guatemalan Quetzal*"
+msgstr ""
+
+#: app/lib/currencies.php:89
+msgid "GYD - Guyanese Dollar"
+msgstr ""
+
+#: app/lib/currencies.php:91
+msgid "HNL - Honduran Lempira*"
+msgstr ""
+
+#: app/lib/currencies.php:92
+msgid "HRK - Croatian Kuna"
+msgstr ""
+
+#: app/lib/currencies.php:93
+msgid "HTG - Haitian Gourde"
+msgstr ""
+
+#: app/lib/currencies.php:95
+msgid "IDR - Indonesian Rupiah"
+msgstr ""
+
+#: app/lib/currencies.php:96
+msgid "ILS - Israeli New Sheqel"
+msgstr ""
+
+#: app/lib/currencies.php:98
+msgid "ISK - Icelandic Króna"
+msgstr ""
+
+#: app/lib/currencies.php:99
+msgid "JMD - Jamaican Dollar"
+msgstr ""
+
+#: app/lib/currencies.php:101
+msgid "KES - Kenyan Shilling"
+msgstr ""
+
+#: app/lib/currencies.php:102
+msgid "KGS - Kyrgyzstani Som"
+msgstr ""
+
+#: app/lib/currencies.php:103
+msgid "KHR - Cambodian Riel"
+msgstr ""
+
+#: app/lib/currencies.php:104
+msgid "KMF - Comorian Franc"
+msgstr ""
+
+#: app/lib/currencies.php:105
+msgid "KRW - South Korean Won"
+msgstr ""
+
+#: app/lib/currencies.php:106
+msgid "KYD - Cayman Islands Dollar"
+msgstr ""
+
+#: app/lib/currencies.php:107
+msgid "KZT - Kazakhstani Tenge"
+msgstr ""
+
+#: app/lib/currencies.php:108
+msgid "LAK - Lao Kip*"
+msgstr ""
+
+#: app/lib/currencies.php:109
+msgid "LBP - Lebanese Pound"
+msgstr ""
+
+#: app/lib/currencies.php:110
+msgid "LKR - Sri Lankan Rupee"
+msgstr ""
+
+#: app/lib/currencies.php:111
+msgid "LRD - Liberian Dollar"
+msgstr ""
+
+#: app/lib/currencies.php:112
+msgid "LSL - Lesotho Loti"
+msgstr ""
+
+#: app/lib/currencies.php:113
+msgid "LTL - Lithuanian Litas"
+msgstr ""
+
+#: app/lib/currencies.php:114
+msgid "LVL - Latvian Lats"
+msgstr ""
+
+#: app/lib/currencies.php:115
+msgid "MAD - Moroccan Dirham"
+msgstr ""
+
+#: app/lib/currencies.php:116
+msgid "MDL - Moldovan Leu"
+msgstr ""
+
+#: app/lib/currencies.php:117
+msgid "MGA - Malagasy Ariary"
+msgstr ""
+
+#: app/lib/currencies.php:118
+msgid "MKD - Macedonian Denar"
+msgstr ""
+
+#: app/lib/currencies.php:119
+msgid "MNT - Mongolian Tögrög"
+msgstr ""
+
+#: app/lib/currencies.php:120
+msgid "MOP - Macanese Pataca"
+msgstr ""
+
+#: app/lib/currencies.php:121
+msgid "MRO - Mauritanian Ouguiya"
+msgstr ""
+
+#: app/lib/currencies.php:122
+msgid "MUR - Mauritian Rupee*"
+msgstr ""
+
+#: app/lib/currencies.php:123
+msgid "MVR - Maldivian Rufiyaa"
+msgstr ""
+
+#: app/lib/currencies.php:124
+msgid "MWK - Malawian Kwacha"
+msgstr ""
+
+#: app/lib/currencies.php:125
+msgid "MXN - Mexican Peso*"
+msgstr ""
+
+#: app/lib/currencies.php:126
+msgid "MYR - Malaysian Ringgit"
+msgstr ""
+
+#: app/lib/currencies.php:127
+msgid "MZN - Mozambican Metical"
+msgstr ""
+
+#: app/lib/currencies.php:128
+msgid "NAD - Namibian Dollar"
+msgstr ""
+
+#: app/lib/currencies.php:129
+msgid "NGN - Nigerian Naira"
+msgstr ""
+
+#: app/lib/currencies.php:130
+msgid "NIO - Nicaraguan Córdoba*"
+msgstr ""
+
+#: app/lib/currencies.php:132
+msgid "NPR - Nepalese Rupee"
+msgstr ""
+
+#: app/lib/currencies.php:134
+msgid "PAB - Panamanian Balboa*"
+msgstr ""
+
+#: app/lib/currencies.php:135
+msgid "PEN - Peruvian Nuevo Sol*"
+msgstr ""
+
+#: app/lib/currencies.php:136
+msgid "PGK - Papua New Guinean Kina"
+msgstr ""
+
+#: app/lib/currencies.php:137
+msgid "PHP - Philippine Peso"
+msgstr ""
+
+#: app/lib/currencies.php:138
+msgid "PKR - Pakistani Rupee"
+msgstr ""
+
+#: app/lib/currencies.php:139
+msgid "PLN - Polish Złoty"
+msgstr ""
+
+#: app/lib/currencies.php:140
+msgid "PYG - Paraguayan Guaraní*"
+msgstr ""
+
+#: app/lib/currencies.php:141
+msgid "QAR - Qatari Riyal"
+msgstr ""
+
+#: app/lib/currencies.php:142
+msgid "RON - Romanian Leu"
+msgstr ""
+
+#: app/lib/currencies.php:143
+msgid "RSD - Serbian Dinar"
+msgstr ""
+
+#: app/lib/currencies.php:144
+msgid "RUB - Russian Ruble"
+msgstr ""
+
+#: app/lib/currencies.php:145
+msgid "RWF - Rwandan Franc"
+msgstr ""
+
+#: app/lib/currencies.php:146
+msgid "SAR - Saudi Riyal"
+msgstr ""
+
+#: app/lib/currencies.php:147
+msgid "SBD - Solomon Islands Dollar"
+msgstr ""
+
+#: app/lib/currencies.php:148
+msgid "SCR - Seychellois Rupee"
+msgstr ""
+
+#: app/lib/currencies.php:151
+msgid "SHP - Saint Helenian Pound*"
+msgstr ""
+
+#: app/lib/currencies.php:152
+msgid "SLL - Sierra Leonean Leone"
+msgstr ""
+
+#: app/lib/currencies.php:153
+msgid "SOS - Somali Shilling"
+msgstr ""
+
+#: app/lib/currencies.php:154
+msgid "SRD - Surinamese Dollar*"
+msgstr ""
+
+#: app/lib/currencies.php:155
+msgid "STD - São Tomé and Príncipe Dobra"
+msgstr ""
+
+#: app/lib/currencies.php:156
+msgid "SVC - Salvadoran Colón*"
+msgstr ""
+
+#: app/lib/currencies.php:157
+msgid "SZL - Swazi Lilangeni"
+msgstr ""
+
+#: app/lib/currencies.php:159
+msgid "TJS - Tajikistani Somoni"
+msgstr ""
+
+#: app/lib/currencies.php:160
+msgid "TOP - Tongan Paʻanga"
+msgstr ""
+
+#: app/lib/currencies.php:161
+msgid "TRY - Turkish Lira"
+msgstr ""
+
+#: app/lib/currencies.php:162
+msgid "TTD - Trinidad and Tobago Dollar"
+msgstr ""
+
+#: app/lib/currencies.php:163
+msgid "TWD - New Taiwan Dollar"
+msgstr ""
+
+#: app/lib/currencies.php:164
+msgid "TZS - Tanzanian Shilling"
+msgstr ""
+
+#: app/lib/currencies.php:165
+msgid "UAH - Ukrainian Hryvnia"
+msgstr ""
+
+#: app/lib/currencies.php:166
+msgid "UGX - Ugandan Shilling"
+msgstr ""
+
+#: app/lib/currencies.php:167
+msgid "USD - United States Dollar"
+msgstr ""
+
+#: app/lib/currencies.php:168
+msgid "UYI - Uruguayan Peso*"
+msgstr ""
+
+#: app/lib/currencies.php:169
+msgid "UZS - Uzbekistani Som"
+msgstr ""
+
+#: app/lib/currencies.php:170
+msgid "VEF - Venezuelan Bolívar*"
+msgstr ""
+
+#: app/lib/currencies.php:171
+msgid "VND - Vietnamese Đồng"
+msgstr ""
+
+#: app/lib/currencies.php:172
+msgid "VUV - Vanuatu Vatu"
+msgstr ""
+
+#: app/lib/currencies.php:173
+msgid "WST - Samoan Tala"
+msgstr ""
+
+#: app/lib/currencies.php:174
+msgid "XAF - Central African Cfa Franc"
+msgstr ""
+
+#: app/lib/currencies.php:175
+msgid "XCD - East Caribbean Dollar"
+msgstr ""
+
+#: app/lib/currencies.php:176
+msgid "XOF - West African Cfa Franc*"
+msgstr ""
+
+#: app/lib/currencies.php:177
+msgid "XPF - Cfp Franc*"
+msgstr ""
+
+#: app/lib/currencies.php:178
+msgid "YER - Yemeni Rial"
+msgstr ""
+
+#: app/lib/currencies.php:179
+msgid "ZAR - South African Rand"
+msgstr ""
+
+#: app/lib/currencies.php:180
+msgid "ZMW - Zambian Kwacha"
+msgstr ""
+
+#: app/model/class-pp-model-forms.php:198
+msgid "First Name"
+msgstr ""
+
+#: app/model/class-pp-model-forms.php:207
+msgid "Last Name"
+msgstr ""
+
+#: app/model/class-pp-model-forms.php:216
+#: app/views/admin/logs/class-pp-views-admin-logs-view.php:66
+msgid "Email"
+msgstr ""
+
+#: app/model/class-pp-model-forms.php:225 app/model/class-pp-model-log.php:657
+#: app/views/admin/class-pp-views-admin-dash.php:48
+#: app/views/admin/logs/class-pp-views-admin-logs-list.php:15
+#: app/views/admin/logs/class-pp-views-admin-logs-view.php:25
+msgid "Amount"
+msgstr ""
+
+#: app/model/class-pp-model-forms.php:228
+msgid "Payment Amount"
+msgstr ""
+
+#: app/model/class-pp-model-forms.php:247
+msgid "Text"
+msgstr ""
+
+#: app/model/class-pp-model-forms.php:248
+msgid "Text Area"
+msgstr ""
+
+#: app/model/class-pp-model-forms.php:249
+msgid "Check Box"
+msgstr ""
+
+#: app/model/class-pp-model-forms.php:250
+msgid "Paragraph"
+msgstr ""
+
+#: app/model/class-pp-model-forms.php:292
+msgid "%1$srequired%2$s"
+msgstr ""
+
+#: app/model/class-pp-model-gateway.php:280
+msgid "All"
+msgstr ""
+
+#: app/model/class-pp-model-log.php:626
+msgid "Pending"
+msgstr ""
+
+#: app/model/class-pp-model-log.php:627
+msgid "Paid"
+msgstr ""
+
+#: app/model/class-pp-model-log.php:628
+msgid "Canceled"
+msgstr ""
+
+#: app/model/class-pp-model-log.php:629
+msgid "Refunded"
+msgstr ""
+
+#: app/model/class-pp-model-log.php:653
+msgid "No logs to export"
+msgstr ""
+
+#: app/model/class-pp-model-log.php:655
+#: app/views/admin/class-pp-views-admin-dash.php:46
+#: app/views/admin/gateways/class-pp-views-admin-gateways-list.php:12
+#: app/views/admin/logs/class-pp-views-admin-logs-list.php:13
+msgid "ID"
+msgstr ""
+
+#: app/model/class-pp-model-log.php:656
+#: app/views/admin/class-pp-views-admin-dash.php:47
+#: app/views/admin/gateways/class-pp-views-admin-gateways-list.php:16
+#: app/views/admin/logs/class-pp-views-admin-logs-list.php:14
+#: app/views/admin/logs/class-pp-views-admin-logs-view.php:41
+msgid "Status"
+msgstr ""
+
+#: app/model/class-pp-model-log.php:658
+#: app/views/admin/gateways/class-pp-views-admin-gateways-create.php:36
+#: app/views/admin/gateways/class-pp-views-admin-gateways-edit.php:50
+#: app/views/admin/gateways/class-pp-views-admin-gateways-list.php:14
+#: app/views/admin/logs/class-pp-views-admin-logs-list.php:16
+#: app/views/admin/logs/class-pp-views-admin-logs-view.php:33
+msgid "Gateway"
+msgstr ""
+
+#: app/model/class-pp-model-log.php:659
+msgid "External ID"
+msgstr ""
+
+#: app/model/class-pp-model-log.php:660
+#: app/views/admin/logs/class-pp-views-admin-logs-list.php:17
+msgid "Date Created"
+msgstr ""
+
+#: app/model/class-pp-model-log.php:661
+#: app/views/admin/logs/class-pp-views-admin-logs-list.php:18
+msgid "Date Updated"
+msgstr ""
+
+#: app/model/class-pp-model-transaction.php:24
+msgid "Invalid action. Please check the form and try again"
+msgstr ""
+
+#: app/model/class-pp-model-transaction.php:42
+msgid "Transaction processed successfully"
+msgstr ""
+
+#: app/model/class-pp-model-transaction.php:75
+msgid "%s is a required field"
+msgstr ""
+
+#: app/model/class-pp-model-transaction.php:90
+msgid "%s is an invalid email"
+msgstr ""
+
+#: app/model/class-pp-model-transaction.php:133
+msgid "Transaction saved successfully"
+msgstr ""
+
+#: app/model/class-pp-model-transaction.php:140
+msgid "No data to save for this transaction"
+msgstr ""
+
+#: app/model/class-pp-model-transaction.php:146
+msgid "Please correct the following errors %1$s %2$s"
+msgstr ""
+
+#: app/model/class-pp-model-transaction.php:154
+msgid "Invalid action. Selected gateway does not exist"
+msgstr ""
+
+#: app/model/class-pp-model-transaction.php:202
+msgid "Invalid gateway. Please check your settingss"
+msgstr ""
+
+#: app/ui/default/backend/page.php:21
+msgid "Select One"
+msgstr ""
+
+#: app/ui/default/backend/pagination.php:46
+#: app/ui/default/backend/pagination.php:51
+msgid "Previous page"
+msgstr ""
+
+#: app/ui/default/backend/pagination.php:68
+msgid "&hellip;"
+msgstr ""
+
+#: app/ui/default/backend/pagination.php:86
+#: app/ui/default/backend/pagination.php:91
+msgid "Next page"
+msgstr ""
+
+#: app/views/admin/class-pp-views-admin-dash.php:39
+msgid "Recent Transactions"
+msgstr ""
+
+#: app/views/admin/class-pp-views-admin-dash.php:63
+msgid "No recent transactions found"
+msgstr ""
+
+#: app/views/admin/class-pp-views-admin-gateways.php:18
+msgid "Add Gateway"
+msgstr ""
+
+#: app/views/admin/class-pp-views-admin-gateways.php:55
+#: app/views/admin/class-pp-views-admin-logs.php:44
+msgid "Bulk Actions"
+msgstr ""
+
+#: app/views/admin/class-pp-views-admin-gateways.php:57
+msgid "Disable"
+msgstr ""
+
+#: app/views/admin/class-pp-views-admin-gateways.php:58
+#: app/views/admin/class-pp-views-admin-logs.php:45
+#: app/views/admin/gateways/class-pp-views-admin-gateways-list.php:104
+#: app/views/admin/logs/class-pp-views-admin-logs-list.php:91
+msgid "Delete"
+msgstr ""
+
+#: app/views/admin/class-pp-views-admin-gateways.php:65
+#: app/views/admin/class-pp-views-admin-logs.php:52
+msgid "Apply"
+msgstr ""
+
+#: app/views/admin/class-pp-views-admin-gateways.php:98
+#: app/views/admin/class-pp-views-admin-logs.php:129
+msgid "Loading Data"
+msgstr ""
+
+#: app/views/admin/class-pp-views-admin-logs.php:13
+msgid "Transaction Logs"
+msgstr ""
+
+#: app/views/admin/class-pp-views-admin-logs.php:67
+msgid "Export"
+msgstr ""
+
+#: app/views/admin/class-pp-views-admin-logs.php:94
+msgid "Filter by Gateway"
+msgstr ""
+
+#: app/views/admin/class-pp-views-admin-settings.php:25
+msgid "General"
+msgstr ""
+
+#: app/views/admin/class-pp-views-admin-settings.php:26
+msgid "Form Fields"
+msgstr ""
+
+#: app/views/admin/class-pp-views-admin-settings.php:27
+msgid "Integration"
+msgstr ""
+
+#: app/views/admin/gateways/class-pp-views-admin-gateways-create.php:54
+msgid "Select a payment gateway first to setup integrations"
+msgstr ""
+
+#: app/views/admin/gateways/class-pp-views-admin-gateways-integration.php:26
+msgid "Save"
+msgstr ""
+
+#: app/views/admin/gateways/class-pp-views-admin-gateways-integration.php:39
+#: app/views/admin/logs/class-pp-views-admin-logs-view.php:55
+msgid "Update"
+msgstr ""
+
+#: app/views/admin/gateways/class-pp-views-admin-gateways-integration.php:76
+#: app/views/admin/gateways/class-pp-views-admin-gateways-list.php:13
+msgid "Nickname"
+msgstr ""
+
+#: app/views/admin/gateways/class-pp-views-admin-gateways-integration.php:88
+msgid "This is a nickname to allow you to identify your setting"
+msgstr ""
+
+#: app/views/admin/gateways/class-pp-views-admin-gateways-integration.php:92
+#: app/views/admin/gateways/class-pp-views-admin-gateways-list.php:15
+msgid "Mode"
+msgstr ""
+
+#: app/views/admin/gateways/class-pp-views-admin-gateways-integration.php:102
+msgid "Sandbox"
+msgstr ""
+
+#: app/views/admin/gateways/class-pp-views-admin-gateways-integration.php:103
+msgid "Live"
+msgstr ""
+
+#: app/views/admin/gateways/class-pp-views-admin-gateways-integration.php:109
+msgid "Gateway Mode"
+msgstr ""
+
+#: app/views/admin/gateways/class-pp-views-admin-gateways-list.php:17
+#: app/views/admin/logs/class-pp-views-admin-logs-list.php:19
+msgid "Action"
+msgstr ""
+
+#: app/views/admin/gateways/class-pp-views-admin-gateways-list.php:61
+msgid "Enabled"
+msgstr ""
+
+#: app/views/admin/gateways/class-pp-views-admin-gateways-list.php:61
+msgid "Disabled"
+msgstr ""
+
+#: app/views/admin/gateways/class-pp-views-admin-gateways-list.php:72
+msgid "Edit"
+msgstr ""
+
+#: app/views/admin/gateways/class-pp-views-admin-gateways-list.php:88
+msgid "Copy"
+msgstr ""
+
+#: app/views/admin/gateways/class-pp-views-admin-gateways-list.php:128
+msgid "No gateways saved"
+msgstr ""
+
+#: app/views/admin/gateways/integrations/class-pp-views-admin-gateways-integrations-mpesa.php:21
+msgid ""
+"Mpesa requires the phone number field. To get started, please visit "
+"%1$shere%2$s and create your account. To go live, please visit %3$sthis "
+"url%4$s . Add the following URL as the callback handler %5$s"
+msgstr ""
+
+#: app/views/admin/gateways/integrations/class-pp-views-admin-gateways-integrations-mpesa.php:47
+msgid "Merchant Name"
+msgstr ""
+
+#: app/views/admin/gateways/integrations/class-pp-views-admin-gateways-integrations-mpesa.php:52
+msgid "Your Mpesa Company name"
+msgstr ""
+
+#: app/views/admin/gateways/integrations/class-pp-views-admin-gateways-integrations-mpesa.php:56
+#: app/views/admin/gateways/integrations/class-pp-views-admin-gateways-integrations-mpesa.php:61
+msgid "Credentials Endpoint"
+msgstr ""
+
+#: app/views/admin/gateways/integrations/class-pp-views-admin-gateways-integrations-mpesa.php:65
+#: app/views/admin/gateways/integrations/class-pp-views-admin-gateways-integrations-mpesa.php:70
+msgid "Payments Endpoint"
+msgstr ""
+
+#: app/views/admin/gateways/integrations/class-pp-views-admin-gateways-integrations-mpesa.php:74
+msgid "PassKey"
+msgstr ""
+
+#: app/views/admin/gateways/integrations/class-pp-views-admin-gateways-integrations-mpesa.php:79
+msgid "Your Mpesa PassKey"
+msgstr ""
+
+#: app/views/admin/gateways/integrations/class-pp-views-admin-gateways-integrations-mpesa.php:83
+msgid "Consumer Key"
+msgstr ""
+
+#: app/views/admin/gateways/integrations/class-pp-views-admin-gateways-integrations-mpesa.php:88
+msgid "Your Mpesa Consumer Key"
+msgstr ""
+
+#: app/views/admin/gateways/integrations/class-pp-views-admin-gateways-integrations-mpesa.php:92
+msgid "Consumer Secret"
+msgstr ""
+
+#: app/views/admin/gateways/integrations/class-pp-views-admin-gateways-integrations-mpesa.php:97
+msgid "Your Mpesa Consumer Secret"
+msgstr ""
+
+#: app/views/admin/gateways/integrations/class-pp-views-admin-gateways-integrations-mpesa.php:101
+msgid "Shortcode"
+msgstr ""
+
+#: app/views/admin/gateways/integrations/class-pp-views-admin-gateways-integrations-mpesa.php:106
+msgid "Your Mpesa Shortcode"
+msgstr ""
+
+#: app/views/admin/gateways/integrations/class-pp-views-admin-gateways-integrations-pesapal.php:21
+msgid ""
+"PesaPal requires Full names and email/phone number. To handle IPN return "
+"requests, please copy and set the following url in your %1$sPesaPal Account "
+"Settings%2$s %3$s"
+msgstr ""
+
+#: app/views/admin/gateways/integrations/class-pp-views-admin-gateways-integrations-pesapal.php:45
+msgid "Customer Key"
+msgstr ""
+
+#: app/views/admin/gateways/integrations/class-pp-views-admin-gateways-integrations-pesapal.php:50
+msgid "Your PesaPal Consumer Key"
+msgstr ""
+
+#: app/views/admin/gateways/integrations/class-pp-views-admin-gateways-integrations-pesapal.php:54
+msgid "Customer Secret"
+msgstr ""
+
+#: app/views/admin/gateways/integrations/class-pp-views-admin-gateways-integrations-pesapal.php:59
+msgid "Your PesaPal Consumer Secret"
+msgstr ""
+
+#: app/views/admin/gateways/integrations/class-pp-views-admin-gateways-integrations-ppsingle.php:18
+msgid ""
+"This the a basic PayPal gateway that allows users to easily make a single "
+"payment."
+msgstr ""
+
+#: app/views/admin/gateways/integrations/class-pp-views-admin-gateways-integrations-ppsingle.php:34
+msgid "Select Currency"
+msgstr ""
+
+#: app/views/admin/gateways/integrations/class-pp-views-admin-gateways-integrations-ppsingle.php:39
+msgid "PayPal Email"
+msgstr ""
+
+#: app/views/admin/gateways/integrations/class-pp-views-admin-gateways-integrations-ppsingle.php:44
+msgid "Your PayPal Email"
+msgstr ""
+
+#: app/views/admin/gateways/integrations/class-pp-views-admin-gateways-integrations-ppsingle.php:48
+msgid "PayPal Currency"
+msgstr ""
+
+#: app/views/admin/gateways/integrations/class-pp-views-admin-gateways-integrations-ppsingle.php:62
+msgid ""
+"Your PayPal Currency. If the default site currency is different, we will "
+"convert the amount to the selected currency"
+msgstr ""
+
+#: app/views/admin/logs/class-pp-views-admin-logs-list.php:75
+msgid "View"
+msgstr ""
+
+#: app/views/admin/logs/class-pp-views-admin-logs-list.php:115
+msgid "No logs found"
+msgstr ""
+
+#: app/views/admin/logs/class-pp-views-admin-logs-view.php:60
+msgid "Details"
+msgstr ""
+
+#: app/views/admin/logs/class-pp-views-admin-logs-view.php:64
+msgid "Firstname"
+msgstr ""
+
+#: app/views/admin/logs/class-pp-views-admin-logs-view.php:65
+msgid "Lastname"
+msgstr ""
+
+#: app/views/admin/settings/class-pp-views-admin-settings-fields.php:33
+#: app/views/admin/settings/class-pp-views-admin-settings-fields.php:118
+msgid "Add Field"
+msgstr ""
+
+#: app/views/admin/settings/class-pp-views-admin-settings-fields.php:33
+#: app/views/admin/settings/class-pp-views-admin-settings-fields.php:118
+msgid "Save Fields"
+msgstr ""
+
+#: app/views/admin/settings/class-pp-views-admin-settings-fields.php:39
+#: app/views/admin/settings/class-pp-views-admin-settings-fields.php:52
+msgid "Name"
+msgstr ""
+
+#: app/views/admin/settings/class-pp-views-admin-settings-fields.php:40
+#: app/views/admin/settings/class-pp-views-admin-settings-fields.php:53
+msgid "Type"
+msgstr ""
+
+#: app/views/admin/settings/class-pp-views-admin-settings-fields.php:41
+#: app/views/admin/settings/class-pp-views-admin-settings-fields.php:54
+msgid "Unique Name"
+msgstr ""
+
+#: app/views/admin/settings/class-pp-views-admin-settings-fields.php:42
+#: app/views/admin/settings/class-pp-views-admin-settings-fields.php:55
+msgid "Place Holder"
+msgstr ""
+
+#: app/views/admin/settings/class-pp-views-admin-settings-fields.php:43
+#: app/views/admin/settings/class-pp-views-admin-settings-fields.php:56
+#: app/views/admin/settings/class-pp-views-admin-settings-fields.php:101
+msgid "Mandatory"
+msgstr ""
+
+#: app/views/admin/settings/class-pp-views-admin-settings-fields.php:44
+#: app/views/admin/settings/class-pp-views-admin-settings-fields.php:57
+#: app/views/admin/settings/class-pp-views-admin-settings-fields.php:102
+msgid "Visible"
+msgstr ""
+
+#: app/views/admin/settings/class-pp-views-admin-settings-general.php:36
+msgid "Thank You Page"
+msgstr ""
+
+#: app/views/admin/settings/class-pp-views-admin-settings-general.php:49
+msgid ""
+"The success page. This is shown after the transaction is complete with the "
+"status"
+msgstr ""
+
+#: app/views/admin/settings/class-pp-views-admin-settings-general.php:53
+msgid "Checkout Currency"
+msgstr ""
+
+#: app/views/admin/settings/class-pp-views-admin-settings-general.php:68
+msgid "Checkout currency used in the gateways"
+msgstr ""
+
+#: app/views/admin/settings/class-pp-views-admin-settings-general.php:72
+msgid "Currency position"
+msgstr ""
+
+#: app/views/admin/settings/class-pp-views-admin-settings-general.php:85
+msgid "The currency position"
+msgstr ""
+
+#: app/views/admin/settings/class-pp-views-admin-settings-general.php:89
+msgid "Show decimal"
+msgstr ""
+
+#: app/views/admin/settings/class-pp-views-admin-settings-general.php:96
+msgid "No"
+msgstr ""
+
+#: app/views/admin/settings/class-pp-views-admin-settings-general.php:97
+msgid "Yes"
+msgstr ""
+
+#: app/views/admin/settings/class-pp-views-admin-settings-general.php:100
+msgid "Show or hide a decimal in the price shown"
+msgstr ""
+
+#: app/views/admin/settings/class-pp-views-admin-settings-general.php:104
+msgid "Update Settings"
+msgstr ""
+
+#: app/views/admin/settings/class-pp-views-admin-settings-integration.php:20
+msgid "Payment Form Shortcode"
+msgstr ""
+
+#: app/views/admin/settings/class-pp-views-admin-settings-integration.php:22
+msgid ""
+"Use this shortcode to display the payment form on the page. Attributes "
+"include "
+msgstr ""
+
+#: app/views/admin/settings/class-pp-views-admin-settings-integration.php:24
+msgid "the name of the button. Defaults to \"Complete Payment\""
+msgstr ""
+
+#: app/views/admin/settings/class-pp-views-admin-settings-integration.php:25
+msgid "the text used as total. Defaults to \"Total\""
+msgstr ""
+
+#: app/views/admin/settings/class-pp-views-admin-settings-integration.php:26
+msgid "the total amount to be paid. Defaults to \"1.0\""
+msgstr ""
+
+#: app/views/admin/settings/class-pp-views-admin-settings-integration.php:27
+msgid "the payment gateway to use. Defaults to \"0\""
+msgstr ""
+
+#: app/views/admin/settings/class-pp-views-admin-settings-integration.php:28
+msgid "additional classes to be used in the form. Defaults to \"payment-form\""
+msgstr ""
+
+#: app/views/admin/settings/class-pp-views-admin-settings-integration.php:29
+msgid "submit the form using ajax or full page post. Defaults to \"true\""
+msgstr ""
+
+#: app/views/admin/settings/class-pp-views-admin-settings-integration.php:30
+msgid ""
+"shot the amount on the payment form. This allows a user to input any value "
+"to pay \"false\""
+msgstr ""
+
+#: app/views/admin/settings/class-pp-views-admin-settings-integration.php:32
+msgid "Example usage "
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://pesapress.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Integrate PesaPal to WordPress and supported integrations"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "alloykenya"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://hubloy.com"
+msgstr ""

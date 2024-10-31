@@ -1,0 +1,163 @@
+/**
+ * Collects all SASS files into a single css file.
+ *
+ * https://make.wordpress.org/core/handbook/coding-standards/css/
+ * The coding standard is applied to the SASS source files and formatting might
+ * be slightly changed by compilation into CSS files. However, there is a
+ * expanded dev-version of the CSS files and also a minified version without
+ * any comments.
+ */
+body .pesapress-label--info, body .pesapress-label--error, body .pesapress-label--notice, body .pesapress-label--success, body .pesapress-label--loading,
+.pesapress-form .pesapress-label--info,
+.pesapress-form .pesapress-label--error,
+.pesapress-form .pesapress-label--notice,
+.pesapress-form .pesapress-label--success,
+.pesapress-form .pesapress-label--loading {
+  height: auto;
+  opacity: 1;
+  cursor: default;
+  display: block;
+  position: relative;
+  margin: 15px 0;
+  padding: 14px 15px 12px;
+  border-radius: 2px;
+  color: #888;
+  font: 400 13px/20px "Roboto", Arial, sans-serif;
+  letter-spacing: 0;
+  transition: height 0.3s linear, opacity 0.3s ease;
+}
+body .pesapress-label--info > span, body .pesapress-label--info > div, body .pesapress-label--error > span, body .pesapress-label--error > div, body .pesapress-label--notice > span, body .pesapress-label--notice > div, body .pesapress-label--success > span, body .pesapress-label--success > div, body .pesapress-label--loading > span, body .pesapress-label--loading > div,
+.pesapress-form .pesapress-label--info > span,
+.pesapress-form .pesapress-label--info > div,
+.pesapress-form .pesapress-label--error > span,
+.pesapress-form .pesapress-label--error > div,
+.pesapress-form .pesapress-label--notice > span,
+.pesapress-form .pesapress-label--notice > div,
+.pesapress-form .pesapress-label--success > span,
+.pesapress-form .pesapress-label--success > div,
+.pesapress-form .pesapress-label--loading > span,
+.pesapress-form .pesapress-label--loading > div {
+  cursor: text;
+  opacity: 0.9;
+  display: block;
+  padding-left: 28px;
+}
+body .pesapress-label--info > span strong, body .pesapress-label--info > div strong, body .pesapress-label--error > span strong, body .pesapress-label--error > div strong, body .pesapress-label--notice > span strong, body .pesapress-label--notice > div strong, body .pesapress-label--success > span strong, body .pesapress-label--success > div strong, body .pesapress-label--loading > span strong, body .pesapress-label--loading > div strong,
+.pesapress-form .pesapress-label--info > span strong,
+.pesapress-form .pesapress-label--info > div strong,
+.pesapress-form .pesapress-label--error > span strong,
+.pesapress-form .pesapress-label--error > div strong,
+.pesapress-form .pesapress-label--notice > span strong,
+.pesapress-form .pesapress-label--notice > div strong,
+.pesapress-form .pesapress-label--success > span strong,
+.pesapress-form .pesapress-label--success > div strong,
+.pesapress-form .pesapress-label--loading > span strong,
+.pesapress-form .pesapress-label--loading > div strong {
+  font-weight: bold;
+}
+body .pesapress-label--info p, body .pesapress-label--error p, body .pesapress-label--notice p, body .pesapress-label--success p, body .pesapress-label--loading p,
+.pesapress-form .pesapress-label--info p,
+.pesapress-form .pesapress-label--error p,
+.pesapress-form .pesapress-label--notice p,
+.pesapress-form .pesapress-label--success p,
+.pesapress-form .pesapress-label--loading p {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  color: #888;
+  font: 400 13px/20px "Roboto", Arial, sans-serif;
+  letter-spacing: 0;
+}
+body .pesapress-label--info p strong, body .pesapress-label--error p strong, body .pesapress-label--notice p strong, body .pesapress-label--success p strong, body .pesapress-label--loading p strong,
+.pesapress-form .pesapress-label--info p strong,
+.pesapress-form .pesapress-label--error p strong,
+.pesapress-form .pesapress-label--notice p strong,
+.pesapress-form .pesapress-label--success p strong,
+.pesapress-form .pesapress-label--loading p strong {
+  font-weight: bold;
+}
+body .pesapress-label--info:before, body .pesapress-label--error:before, body .pesapress-label--notice:before, body .pesapress-label--success:before, body .pesapress-label--loading:before,
+.pesapress-form .pesapress-label--info:before,
+.pesapress-form .pesapress-label--error:before,
+.pesapress-form .pesapress-label--notice:before,
+.pesapress-form .pesapress-label--success:before,
+.pesapress-form .pesapress-label--loading:before {
+  content: " ";
+  display: block;
+  position: absolute;
+  top: 14px;
+  left: 15px;
+  speak: none;
+  font-size: 16px;
+  line-break: 16px;
+  text-align: center;
+}
+body .pesapress-label--info:first-child, body .pesapress-label--error:first-child, body .pesapress-label--notice:first-child, body .pesapress-label--success:first-child, body .pesapress-label--loading:first-child,
+.pesapress-form .pesapress-label--info:first-child,
+.pesapress-form .pesapress-label--error:first-child,
+.pesapress-form .pesapress-label--notice:first-child,
+.pesapress-form .pesapress-label--success:first-child,
+.pesapress-form .pesapress-label--loading:first-child {
+  margin-top: 0;
+}
+body .pesapress-label--info:last-child, body .pesapress-label--error:last-child, body .pesapress-label--notice:last-child, body .pesapress-label--success:last-child, body .pesapress-label--loading:last-child,
+.pesapress-form .pesapress-label--info:last-child,
+.pesapress-form .pesapress-label--error:last-child,
+.pesapress-form .pesapress-label--notice:last-child,
+.pesapress-form .pesapress-label--success:last-child,
+.pesapress-form .pesapress-label--loading:last-child {
+  margin-bottom: 0;
+}
+body .pesapress-label--info,
+.pesapress-form .pesapress-label--info {
+  background: #F8F8F8;
+}
+body .pesapress-label--info:before,
+.pesapress-form .pesapress-label--info:before {
+  color: #4DA6DE;
+}
+body .pesapress-label--error,
+.pesapress-form .pesapress-label--error {
+  background: #AA1111;
+  color: #FFFFFF;
+}
+body .pesapress-label--error p,
+.pesapress-form .pesapress-label--error p {
+  color: #FFFFFF;
+}
+body .pesapress-label--notice,
+.pesapress-form .pesapress-label--notice {
+  background: #FFF4D2;
+  color: #333;
+}
+body .pesapress-label--notice:before,
+.pesapress-form .pesapress-label--notice:before {
+  color: #F8D247;
+}
+body .pesapress-label--notice p,
+.pesapress-form .pesapress-label--notice p {
+  color: #333;
+}
+body .pesapress-label--success,
+.pesapress-form .pesapress-label--success {
+  background: #1ABC9C;
+  color: #FFFFFF;
+}
+body .pesapress-label--success p,
+.pesapress-form .pesapress-label--success p {
+  color: #FFFFFF;
+}
+body .pesapress-label--loading,
+.pesapress-form .pesapress-label--loading {
+  background: #D4EEF9;
+}
+body .pesapress-label--loading:before,
+.pesapress-form .pesapress-label--loading:before {
+  width: 18px;
+  height: 18px;
+  border: 2px solid #FFFFFF;
+  border-bottom-color: transparent;
+  border-radius: 100%;
+  box-sizing: border-box;
+  animation: spin .75s 0s linear infinite;
+}
